@@ -61,7 +61,7 @@ If you are interested in downloading some specific resource only, we provide the
 **I3D Features**
 
 * [Charades-STA](https://cloudstor.aarnet.edu.au/plus/s/Ac8TJsKYBSFEwhy/download)
-* [YouCookII](https://cloudstor.aarnet.edu.au/plus/s/P4jmml24WoVH9ev/download -O youcookii_i3d.zip)
+* [YouCookII](https://cloudstor.aarnet.edu.au/plus/s/P4jmml24WoVH9ev/download)
 * [Activity-Net](https://cloudstor.aarnet.edu.au/plus/s/WF0i5SrFqv2NCR1/download)
 
 **Object Features**
