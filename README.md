@@ -83,12 +83,21 @@ If you are interested in downloading some specific resource only, we provide the
 
 # Citation
 
-If you use our code or data please consider citing our work.
+If you use our code or features please consider citing our works.
 
 ```bibtex
+@InProceedings{rodriguez2020proposal,
+    title={Proposal-free Temporal Moment Localization of a Natural-Language Query in Video using Guided Attention},
+    author={Rodriguez-Opazo, Cristian and Marrese-Taylor, Edison and Saleh, Fatemeh Sadat and Li, Hongdong and Gould, Stephen},
+    booktitle={2020 IEEE Winter Conference on Applications of Computer Vision (WACV)},
+    pages={2453--2462},
+    year={2020},
+    organization={IEEE}
+}
+
 @InProceedings{Rodriguez-Opazo_2021_WACV,
-    author    = {Rodriguez-Opazo, Cristian and Marrese-Taylor, Edison and Fernando, Basura and Li, Hongdong and Gould, Stephen},
     title     = {DORi: Discovering Object Relationships for Moment Localization of a Natural Language Query in a Video},
+    author    = {Rodriguez-Opazo, Cristian and Marrese-Taylor, Edison and Fernando, Basura and Li, Hongdong and Gould, Stephen},
     booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
     month     = {January},
     year      = {2021},
