@@ -23,8 +23,8 @@ wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/tQ7WYembO3OtgOX/do
 wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/P4jmml24WoVH9ev/download -O youcookii_i3d.zip
 # download YOUCOOKII object features
 wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/oAwKQ5xPsurQ1sr/download -O youcookii_obj.z01
-wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/dLzikggiXVjkg2e/download -O youcookii_i3d.z02
-wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/XHTQYCbX4IxFvHH/download -O youcookii_i3d.zip
+wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/dLzikggiXVjkg2e/download -O youcookii_obj.z02
+wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/XHTQYCbX4IxFvHH/download -O youcookii_obj.zip
 
 # download ANET-CAP i3d features.
 wget -P $DOWNLOAD_PATH https://cloudstor.aarnet.edu.au/plus/s/WF0i5SrFqv2NCR1/download
